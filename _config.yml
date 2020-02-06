@@ -13,3 +13,19 @@
 
 plugins:
   - jekyll-seo-tag
+  
+  
+title: 'Incoherent thinking'
+description: "Ramblings about computers, games and people acting irresponsibly"
+url: "https://www.guestnone.me"
+
+style: dark
+
+header_pages:
+  - index.md
+  - about.md
+
+site_author: Patrick Rećko
+content_license: CC-BY 4.0
+
+markdown: kramdown
